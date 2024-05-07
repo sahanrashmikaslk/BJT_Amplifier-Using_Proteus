@@ -1,6 +1,6 @@
-# BJT Amplifier Using Proteus
+# BJT Amplifier Using Proteus with PCB Implementation
 
-This repository contains the code, design files, and documentation for a university project focused on creating a common emitter BJT amplifier using Proteus simulation software.
+This repository contains the code, design files, and documentation for a university project focused on creating a common emitter BJT amplifier using Proteus simulation software with PCB Implementaion
 
 ## Abstract
 
@@ -34,27 +34,45 @@ The project aimed to implement a Common Emitter BJT amplifier with specific spec
 - Implement the circuit on a printed circuit board.
 - Conclude theoretical and practical performances.
 
-## Design Overview
+### Design Overview
 
 The amplifier design utilized cascaded stages with buffer circuits to achieve the desired gain and bandwidth. The 2N3904 NPN transistor was selected for its suitable properties.
+
+## Block Diagram of the Amplifier Circuit
+
+![PCB Photo](https://github.com/sahanrashmikaslk/BJT_Amplifier-Using_Proteus/raw/main/Block_Diagram.png)
 
 ## Result and Discussion
 
 Simulation results closely matched theoretical values, with a gain of approximately 400 achieved. Several factors contributed to deviations between theoretical and practical values, including component availability, impedance mismatch, real-world component properties, temperature effects, component tolerance, instrumental errors, and random experimental errors.
 
-## 3D Visualizer View
+### Schematic Capture
+
+![PCB Photo](https://github.com/sahanrashmikaslk/BJT_Amplifier-Using_Proteus/raw/main/Schematic_Capture.png)
+
+### PCB Layout
+
+![PCB Photo](https://github.com/sahanrashmikaslk/BJT_Amplifier-Using_Proteus/raw/main/PCB_Layout.png)
+
+### 3D Visualizer View
 
 ![PCB Photo](https://github.com/sahanrashmikaslk/BJT_Amplifier-Using_Proteus/raw/main/3D_Visualizer_View.png)
 
-## PCB
 
-![PCB Photo](https://github.com/sahanrashmikaslk/BJT_Amplifier-Using_Proteus/raw/main/PCB.jpg)
+### Copper Traces
+
+![PCB Photo](https://github.com/sahanrashmikaslk/BJT_Amplifier-Using_Proteus/raw/main/Copper_Traces.png)
+
+
+### PCB implementation
+
+![PCB Photo](https://github.com/sahanrashmikaslk/BJT_Amplifier-Using_Proteus/raw/main/PCB_implementation.jpg)
 
 
 ## Contributors
 
-- KUMARI H.M.M.S
-- KURUWITAARACHCHI K.A.D.T.T
-- LAKPAHANA A.G.S
-- LAKSHANI P.N.K
+- Sanjula Lakpahana
+- Telana Kuruwitaarachchi
+- Nilmi Lakshani
+- Madhavi Kumari
 
