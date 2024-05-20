@@ -71,6 +71,7 @@ Simulation results closely matched theoretical values, with a gain of approximat
 
 ## Contributors
 
+- Sahan Lelwala
 - Sanjula Lakpahana
 - Telana Kuruwitaarachchi
 - Nilmi Lakshani
